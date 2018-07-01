@@ -1,4 +1,4 @@
-apk file; https://drive.google.com/drive/folders/1EX2nYSsK9AkuYH6yXtQeW84rIByQ23HV?ogsrc=32
+apk file; https://drive.google.com/file/d/1AxCTVaDwvTZ6wyDbcxfpd8QMNNmYit9K/view?usp=sharing
 
 This Android App contains questions about generation of celphone network technology from 1G to 4G and yet to be launched(5G). 
 
